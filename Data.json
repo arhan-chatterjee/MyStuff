@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Juwon Chang",
+        "student_id": "200196",
+        "grades": {
+            "math": [],
+            "chemistry": [],
+            "biology": [],
+            "physics": []
+        }
+    },
+    {
+        "name": "Tancredi Chisnall",
+        "student_id": "201184",
+        "grades": {
+            "math": [],
+            "chemistry": [],
+            "biology": [],
+            "physics": []
+        }
+    },
+    {
+        "name": "Ryan Yin",
+        "student_id": "203165",
+        "grades": {
+            "math": [],
+            "chemistry": [],
+            "biology": [],
+            "physics": []
+        }
+    },
+    {
+        "name": "Ryan Koshy",
+        "student_id": "202824",
+        "grades": {
+            "math": [],
+            "chemistry": [],
+            "biology": [],
+            "physics": []
+        }
+    }
+]
